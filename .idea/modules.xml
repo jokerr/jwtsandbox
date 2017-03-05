@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javajwt/javajwt.iml" filepath="$PROJECT_DIR$/javajwt/javajwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jjwt/jjwt.iml" filepath="$PROJECT_DIR$/jjwt/jjwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jose4j/jose4j.iml" filepath="$PROJECT_DIR$/jose4j/jose4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwtsandbox.iml" filepath="$PROJECT_DIR$/jwtsandbox.iml" />
+    </modules>
+  </component>
+</project>
